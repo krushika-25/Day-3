@@ -1,0 +1,117 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: none;
+    background-color: black;
+    color: white;
+    
+}
+.button1 {
+    background-color: gray; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .button2 {
+    background-color: gray; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .button3 {
+    background-color: gray; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .button4 {
+    background-color: gray; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .button5 {
+    background-color: gray; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .container {
+    position: relative;
+    max-width: 800px; /* Maximum width */
+    margin: 40px; /* Center it */
+  }
+  
+  .container .content {
+    position: absolute; /* Position the background text */
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1; /* Grey text */
+    width: 100%; /* Full width */
+    padding: 140px; /* Some padding */
+  }
+
+  .left {
+    
+    height: 300px;
+    width: 250px;
+    float: left;
+  }
+  
+  .right {
+    height: 300px;
+    width: 250px;
+    float: center;
+  }
+
+  .left1{
+    height: 300px;
+    width: 250px;
+    float: center;
+  }
+
+  .right1 {
+    height: 300px;
+    width: 250px;
+    float: center;
+  }
+  .container1 {
+    position: relative;
+    margin-top:370px;
+    max-width: 1000px; /* Maximum width */
+   
+  }
+  
+  .container1 .content1 {
+    position: absolute; /* Position the background text */
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1; /* Grey text */
+    width: 100%; /* Full width */
+    padding: 140px; /* Some padding */
+  }
